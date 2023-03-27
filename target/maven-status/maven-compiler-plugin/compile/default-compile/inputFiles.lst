@@ -1,0 +1,15 @@
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/AccountCredentials.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/User.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/OwnerRepository.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/AuthEntryPoint.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/web/CarController.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/CardatabaseApplication.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/UserRepository.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/AuthenticationFilter.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/service/JwtService.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/service/UserDetailsServiceImpl.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/CarRepository.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/Owner.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/domain/Car.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/web/LoginController.java
+/Users/alex/Documents/BookChapter05/src/main/java/com/packt/cardatabase/SecurityConfig.java
