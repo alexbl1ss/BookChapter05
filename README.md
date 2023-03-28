@@ -1,4 +1,4 @@
-alex## Important note
+## Important note
 
 The `WebSecurityConfigurerAdapter` is deprecated in Spring Boot version 2.7. 
 You can still use Spring Boot version 2.6.x by changing the version in your pom.xml file, for example
