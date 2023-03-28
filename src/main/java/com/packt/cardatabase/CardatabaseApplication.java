@@ -58,5 +58,10 @@ public class CardatabaseApplication implements CommandLineRunner {
 				"$2a$10$NVM0n8ElaRgg7zWO1CxUdei7vWoPg91Lz2aYavh9.f9q0e4bRadue","USER"));
 		urepository.save(new User("admin", 
 				"$2a$10$8cjz47bjbR4Mn8GMg9IZx.vyjhLXR/SKKMSZ9.mP9vpMu0ssKi8GW", "ADMIN"));
+		urepository.save(new User("alex", 
+				"$2a$12$o1TFu5j27F2CEr7wZcOFz.kac3LdX8EcP9h.cC4qd5RLKygnLF3Sy", "ADMIN"));
+		urepository.save(new User("suzanne", 
+				"$2a$12$1Q0aVekzPJxKFsIfl7rnlemEkvS.oIzARoqDcOxO/0FFQSAvHbWGu", "ADMIN"));
+
 	}
 }
